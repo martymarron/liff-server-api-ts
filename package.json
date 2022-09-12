@@ -1,10 +1,17 @@
 {
   "name": "liff-server-api",
-  "version": "0.1.0-gamma",
+  "version": "0.1.0-delta",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "liff",
+    "server",
+    "api"
+  ],
   "author": "Masashi Kurita",
   "license": "UNLICENSED",
+  "bugs": "https://github.com/martymarron/liff-server-api-ts/issues",
+  "homepage": "https://github.com/martymarron/liff-server-api-ts",
+  "repository": "https://github.com/martymarron/liff-server-api-ts",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "files": [
