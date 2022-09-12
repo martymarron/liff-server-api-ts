@@ -39,7 +39,7 @@ Under the `src` directory, there are several subdirectories to classify various 
 1. `request`: Modules in this directory store objects that describes API requests.
 1. `response`: Modules in this directory store objects that describes API responses.
 
-Create a new branch from the `master` branch. if you make any changes.
+Create a new branch from the `main` branch. if you make any changes.
 
 Whenerver you change to exisiting modules, or add new modules, you must implement corresponding test cases as well.
 
