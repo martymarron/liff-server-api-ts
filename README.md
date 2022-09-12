@@ -1,6 +1,6 @@
 LIFF Server API Client
 ===
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/martymarron/liff-server-api-ts/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martymarron/liff-server-api-ts/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/martymarron/liff-server-api-ts/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/martymarron/liff-server-api-ts/tree/main)
 [![npm version](https://badge.fury.io/js/liff-server-api.svg)](https://badge.fury.io/js/liff-server-api)
 
 Description
